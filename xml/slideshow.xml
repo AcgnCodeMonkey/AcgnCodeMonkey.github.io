@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<data>
+	<!-- banner config setting -->
+	<setting>
+		<!--  -->
+	</setting>
+	<!-- banner data source -->
+	<!--text background color, background alpha, ect. -->
+	<banner>
+		<image src="images/slideshow/1.jpg"></image>
+		<text bgcolor="0x000000" bgalpha="0.5"><![CDATA[  <font color="#ffffff" size="56">www.flashdos.com</font>  ]]></text>
+		<text bgcolor="0x000000" bgalpha="0.5"><![CDATA[  <font color="#ffffff" size="20">LOREM IPSUM DOLOR SIT AMET, CONSECTETUR ADIPISCING ELIT.</font>  ]]></text>
+	</banner>
+	<banner>
+		<image src="images/slideshow/2.jpg"></image>
+		<text bgcolor="0x000000" bgalpha="0.5"><![CDATA[  <font color="#ffffff" size="56">IN BLANDIT ORCI SED TELLUS IACULIS </font>  ]]></text>
+		<text bgcolor="0x000000" bgalpha="0.5"><![CDATA[  <font color="#ffffff" size="20">IN BLANDIT ORCI SED TELLUS IACULIS DAPIBUS. PHASELLUS UT IPSUM SED ERAT PHARETRA ALIQUAM.</font>  ]]></text>
+	</banner>
+	<banner>
+		<image src="images/slideshow/3.jpg"></image>
+		<text bgcolor="0x000000" bgalpha="0.5"><![CDATA[  <font color="#ffffff" size="56">NUNC VITAE NISL VITAE ANTE LACINIA</font>  ]]></text>
+		<text bgcolor="0x000000" bgalpha="0.5"><![CDATA[  <font color="#ffffff" size="20">NUNC VITAE NISL VITAE ANTE LACINIA DICTUM. PELLENTESQUE VITAE CURSUS EST.</font>  ]]></text>
+	</banner>
+	<banner>
+		<image src="images/slideshow/4.jpg"></image>
+		<text bgcolor="0x000000" bgalpha="0.5"><![CDATA[  <font color="#ffffff" size="56">VESTIBULUM FAUCIBUS, PURUS VEL</font>  ]]></text>
+		<text bgcolor="0x000000" bgalpha="0.5"><![CDATA[  <font color="#ffffff" size="20">VESTIBULUM FAUCIBUS, PURUS VEL DAPIBUS IMPERDIET, QUAM MAURIS DICTUM QUAM, QUIS LACINIA EROS LIBERO UT TURPIS.</font>  ]]></text>
+	</banner>
+
+<banner>
+		<image src="images/slideshow/6.jpg"></image>
+		<text bgcolor="0x000000" bgalpha="0.5"><![CDATA[  <font color="#ffffff" size="56">VESTIBULUM FAUCIBUS, PURUS VEL</font>  ]]></text>
+		<text bgcolor="0x000000" bgalpha="0.5"><![CDATA[  <font color="#ffffff" size="20">VESTIBULUM FAUCIBUS, PURUS VEL DAPIBUS IMPERDIET, QUAM MAURIS DICTUM QUAM, QUIS LACINIA EROS LIBERO UT TURPIS.</font>  ]]></text>
+	</banner>
+
+<banner>
+		<image src="images/slideshow/5.jpg"></image>
+		<text bgcolor="0x000000" bgalpha="0.5"><![CDATA[  <font color="#ffffff" size="56">VESTIBULUM FAUCIBUS, PURUS VEL</font>  ]]></text>
+		<text bgcolor="0x000000" bgalpha="0.5"><![CDATA[  <font color="#ffffff" size="20">VESTIBULUM FAUCIBUS, PURUS VEL DAPIBUS IMPERDIET, QUAM MAURIS DICTUM QUAM, QUIS LACINIA EROS LIBERO UT TURPIS.</font>  ]]></text>
+	</banner>
+
+</data>
